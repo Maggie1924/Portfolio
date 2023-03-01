@@ -1,2 +1,3 @@
 # Portfolio
-<a href = "www.google.com">I love you!</a>
+
+A simple porfolio website using basic HTML and CSS.
